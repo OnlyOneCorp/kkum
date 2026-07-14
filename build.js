@@ -9,10 +9,10 @@ const path = require("path");
 
 /* ── 설정 ── */
 const SITE = "https://kkum.onlyonecorpceo.workers.dev";   // ⚠️ 실제 배포 URL로 수정
-const GA_ID = "G-XXXXXXXXXX";                              // ⚠️ index.html과 동일 GA ID로 수정
+const GA_ID = "G-ECXMNH1D3N";                              // ⚠️ index.html과 동일 GA ID로 수정
 const HUB = "https://main.onlyonecorpceo.workers.dev";
 const EMAIL = "onlyonecorpceo@gmail.com";
-const COUPANG_URL = "https://link.coupang.com/a/XXXXX";    // ⚠️ 쿠팡 딥링크 (꿈해몽 책 등)
+const COUPANG_URL = "https://link.coupang.com/a/fmTQyDVw28";    // ⚠️ 쿠팡 딥링크 (꿈해몽 책 등)
 const AMAZON_URL = "https://www.amazon.com/s?k=dream+interpretation+book&tag=onlyone0c-20";
 const INDEX = path.join(__dirname, "index.html");
 
